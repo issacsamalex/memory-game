@@ -111,7 +111,7 @@ function App() {
               <div className="flip-card-inner">
                 <div className="flip-card-front">
                   <img
-                    src="https://static.vecteezy.com/system/resources/thumbnails/027/869/653/original/opening-gift-box-festivals-and-celebrations-3d-rendering-video.jpg"
+                    src="/src/assets/img_1.jpg"
                     alt="Avatar"
                   />
                 </div>
