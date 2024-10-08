@@ -111,7 +111,7 @@ function App() {
               <div className="flip-card-inner">
                 <div className="flip-card-front">
                   <img
-                    src="/src/assets/img_1.jpg"
+                    src="/assets/img_1.jpg"
                     alt="Avatar"
                   />
                 </div>
